@@ -1,10 +1,7 @@
 best_models
 cache
-chestxray-data
 lightning_logs
 notebooks
-plots
-ray_results
 ray_results_archive
 images
 venv_thesis
